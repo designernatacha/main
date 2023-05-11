@@ -1,4 +1,4 @@
 # portifolio-natacha
-portfolio voltado a uma profissional de design gráfico ↓
+Meu portifólio ↓
 
 https://designer-natacha.com
