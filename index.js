@@ -144,3 +144,4 @@ setTimeout(function () {
   // Tempo de animação
   document.getElementById("contact").classList.add("show"); // Mostra o contato
 }, 7000);
+
